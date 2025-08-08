@@ -21,7 +21,7 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "Story Characters", tooltip: "Only includes characters that have a speaking role in the main plot of a game. Includes Aldark and Wilfre.", key: "story" },
-      { name: "Minor Characters", tooltip: "Only includes non-enemy characters that do not have a speaking role, as well as most Generic Raposa Characters.", key: "minor" },
+      { name: "Minor Characters", tooltip: "Only includes characters that do not have a speaking role, as well as most Generic Raposa Characters. Includes TR Overworld enemies.", key: "minor" },
       { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned" },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy" },
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
@@ -270,6 +270,22 @@ dataSet[dataSetVersion].characterData = [
     opts: {
       games: ["TR"],
       rel: ["mentioned"]
+    }
+  },
+  {
+    name: "Green Baki",
+    img: "Green Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "E'Squire",
+    img: "Esquire.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
     }
   }
 ];
