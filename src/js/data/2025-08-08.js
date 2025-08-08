@@ -40,11 +40,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Yaldabaoth",
-    img: "yaldabaoth.webp",
+    name: "Jowee",
+    img: "Jowee.png",
     opts: {
-      games: ["HS"],
-      rel: ["deniz"]
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
     }
   }
 ];
