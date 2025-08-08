@@ -22,6 +22,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Story Characters", tooltip: "Only includes characters that have a speaking role in the main plot of a game.", key: "story" },
       { name: "Minor Characters", tooltip: "Only includes non-enemy characters that do not have a speaking role, as well as most Generic Raposa Characters.", key: "minor" },
+      { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned" },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy" },
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms", key: "boss" },
       { name: "Fringe Characters", tooltip: "Only includes characters that are debatably not even characters such as Baki Engineer and Wanted Pirates.", key: "fringe" },
@@ -44,6 +45,86 @@ dataSet[dataSetVersion].characterData = [
     img: "Jowee.png",
     opts: {
       games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Click",
+    img: "Click.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Heathern",
+    img: "Heathern.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Mayor",
+    img: "Mayor.png",
+    opts: {
+      games: ["DTL", "TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Mike",
+    img: "Mike.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Miney",
+    img: "Miney.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Monkey King",
+    img: "Monkey King.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Rose",
+    img: "Rose.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Salem",
+    img: "Salem.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Sock",
+    img: "Sock.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Wilfre",
+    img: "Wilfre.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
       rel: ["story"]
     }
   }
