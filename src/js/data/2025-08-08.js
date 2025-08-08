@@ -17,14 +17,14 @@ dataSet[dataSetVersion].options = [
   {
     name: "Filter by Relevance",
     key: "rel",
-    tooltip: "Check this to restrict selection to characters of a specific relevance in the games.",
+    tooltip: "Check this to restrict selection to characters of a specific relevance in the games. Each Character only has one relevance status.",
     checked: false,
     sub: [
-      { name: "Story Characters", tooltip: "Only includes characters that have a speaking role in the main plot of a game.", key: "story" },
+      { name: "Story Characters", tooltip: "Only includes characters that have a speaking role in the main plot of a game. Includes Aldark and Wilfre.", key: "story" },
       { name: "Minor Characters", tooltip: "Only includes non-enemy characters that do not have a speaking role, as well as most Generic Raposa Characters.", key: "minor" },
       { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned" },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy" },
-      { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms", key: "boss" },
+      { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
       { name: "Fringe Characters", tooltip: "Only includes characters that are debatably not even characters such as Baki Engineer and Wanted Pirates.", key: "fringe" },
       { name: "Cut Characters", tooltip: "Only includes characters that were cut, regardless of intended relevance (e.g. Fortune Cookie, Tree King, Teeter all grouped together).", key: "cut" }
     ]
@@ -125,7 +125,151 @@ dataSet[dataSetVersion].characterData = [
     img: "Wilfre.png",
     opts: {
       games: ["DTL", "TNC", "TR"],
+      rel: ["story", "boss"]
+    }
+  },
+  {
+    name: "Isaac",
+    img: "Isaac.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
       rel: ["story"]
+    }
+  },
+  {
+    name: "Hero (Drew)",
+    img: "Drew.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Frostwind",
+    img: "Frostwind.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Deadwood",
+    img: "Deadwood.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Angler King",
+    img: "Angler King.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Wilfre's Scorpion",
+    img: "Scorpion.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Boss",
+    img: "Boss.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Giant Scribble Monster",
+    img: "GSM.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Baki Beard",
+    img: "BakiBeard.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Giant Robosa",
+    img: "Giant Robosa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Queen",
+    img: "Queen.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "King",
+    img: "King.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Circi",
+    img: "Circi.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "DJ",
+    img: "DJ.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Erika",
+    img: "Erika.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Aldark",
+    img: "Aldark.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story", "boss"]
+    }
+  },
+  {
+    name: "Aly",
+    img: "Aly.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Uncle Owen",
+    img: "Uncle Owen.png",
+    opts: {
+      games: ["TR"],
+      rel: ["mentioned"]
     }
   }
 ];
