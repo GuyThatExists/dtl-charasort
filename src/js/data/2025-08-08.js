@@ -287,5 +287,805 @@ dataSet[dataSetVersion].characterData = [
       games: ["TR"],
       rel: ["enemy", "minor"]
     }
+  },
+  {
+    name: "Sasquatch",
+    img: "Sasquatch.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Acorn Baki",
+    img: "Acorn Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Dart Bonobo",
+    img: "Dart Bonobo.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Balloon",
+    img: "Balloon.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Snow Bird",
+    img: "Snow Bird.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Boom Baki",
+    img: "Boom Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Snow Warrior",
+    img: "Snow Warrior.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Bounce",
+    img: "Bounce.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Yeti",
+    img: "Yeti Wii.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Cactus Baki",
+    img: "Cactus Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Fire Baki",
+    img: "Fire Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Monkey",
+    img: "Monkey.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Flipper",
+    img: "Flipper.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Snow Cat",
+    img: "Snow Cat.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Grabber",
+    img: "Grabber.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Dreamer",
+    img: "Dreamer.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Heavy Twins",
+    img: "Heavy Twins.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Watersong Warrior",
+    img: "Watersong Warrior.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Hootlamp",
+    img: "Hootlamp.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Wanted Pirate",
+    img: "Wanted Pirates.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Baki Engineer",
+    img: "Baki Engineer.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Hopper",
+    img: "Hopper.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Miner",
+    img: "Baki Miner.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Megamini",
+    img: "Megamini.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Baki Chimneysweep",
+    img: "Chimneysweep.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Octoshot",
+    img: "Octoshot.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Baki Turret",
+    img: "Baki Turret.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Pengoon",
+    img: "Pengoon.png",
+    opts: {
+      games: ["DTL", "TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Box Monster",
+    img: "Box Monster.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Rolly",
+    img: "Rolly.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Seedling",
+    img: "Seedling.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Moon Baki",
+    img: "Moon Baki.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Spiky Stan",
+    img: "Spiky Stan.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Grey Baki",
+    img: "Grey Baki.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Spring",
+    img: "Spring.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Fountain",
+    img: "Shadow Fountain.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Spikes",
+    img: "Spikes.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Bird",
+    img: "Shadow Bird.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Squwacky",
+    img: "Squwacky.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Snow Baki",
+    img: "Snow Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Snowget",
+    img: "Snowget.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Swooper",
+    img: "Swooper.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Bucket Jelly",
+    img: "Bucket Jelly.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "SwordFisher",
+    img: "SwordFisher.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Ameba",
+    img: "Ameba.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Wind Doot",
+    img: "Wind Doot.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Ancient Raposa",
+    img: "Ancient Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Wood Baki",
+    img: "Wood Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Bruce Lannialli",
+    img: "Bruce.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Chef Cookie",
+    img: "Cookie.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Crazy Barks",
+    img: "Crazy Barks.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Bubba",
+    img: "Bubba.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Tubba",
+    img: "Tubba.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Cricket",
+    img: "Cricket.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Count Choco",
+    img: "Count Choco.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Farmer Brown",
+    img: "Farmer Brown.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Deputy Snyder",
+    img: "Deputy Snyder.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Galileo",
+    img: "Galileo.png",
+    opts: {
+      games: ["DTL", "Wii", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Dr. Cure",
+    img: "Dr. Cure.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Pirate Beard",
+    img: "Pirate Beard.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Dr. Curie",
+    img: "Dr. Curie.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Heather",
+    img: "Heather.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Zsasha",
+    img: "Zsasha.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Indee",
+    img: "Indee.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Robosa",
+    img: "Robosa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Miles",
+    img: "Miles.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Hose Dragon",
+    img: "Hose Dragon.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Mr. Esow",
+    img: "Mr Esow.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Key",
+    img: "Key.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "NavyJ",
+    img: "NavyJ.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Mildew",
+    img: "Mildew.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Moe",
+    img: "Moe.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Cindi",
+    img: "Cindi.png",
+    opts: {
+      games: ["DTL", "TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Shadow Bat",
+    img: "Shadow Bat.png",
+    opts: {
+      games: ["DTL", "Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Butler",
+    img: "Butler.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Shadow Ghoul",
+    img: "Shadow Ghoul.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "S.P.U.D.",
+    img: "SPUD.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Bonobo",
+    img: "Bonobo.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Samuel",
+    img: "Samuel.png",
+    opts: {
+      games: ["DTL", "TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Eastern Winds Baki",
+    img: "EW Baki.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Arrogance",
+    img: "Arrogance.png",
+    opts: {
+      games: ["TR"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Desperate",
+    img: "Desperate.png",
+    opts: {
+      games: ["TR"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Red Fish",
+    img: "Red Fish.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Furious",
+    img: "Furious.png",
+    opts: {
+      games: ["TR"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Large Shadow Bat",
+    img: "Large Shadow bat.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Maximus",
+    img: "Maximus.png",
+    opts: {
+      games: ["TR"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Giant Shadow Walker",
+    img: "Giant Shadow Walker.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Minimus",
+    img: "Minimus.png",
+    opts: {
+      games: ["TR"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Icy Wastes Baki",
+    img: "IW Baki.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Ranger Marxx / SPUD Recruit",
+    img: "Marxx.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["story", "minor"]
+    }
+  },
+  {
+    name: "Jangala Baki",
+    img: "Jangala Baki.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Lightning Bug",
+    img: "Lightning Bug.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Teo",
+    img: "Teo.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Masked Bonobo",
+    img: "Masked Bonobo.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Tony",
+    img: "Tony.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Masked Warrior",
+    img: "Masked Warrior.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Platform Fish",
+    img: "Platform Fish.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Unagi",
+    img: "Unagi.png",
+    opts: {
+      games: ["DTL", "TNC", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Shadow City Baki",
+    img: "Shadow City Baki.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Mya",
+    img: "Mya.png",
+    opts: {
+      games: ["DTL", "TR"],
+      rel: ["story", "minor"]
+    }
   }
 ];
