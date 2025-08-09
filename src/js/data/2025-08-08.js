@@ -1074,7 +1074,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Shadow City Baki",
-    img: "Shadow City Baki.png",
+    img: "SC Baki.png",
     opts: {
       games: ["Wii"],
       rel: ["enemy"]
