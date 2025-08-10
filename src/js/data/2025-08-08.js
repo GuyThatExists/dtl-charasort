@@ -2714,7 +2714,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Cut Snow Gate Enemies",
-    img: "Cut Snow Gate Enemeis.png",
+    img: "Cut Snow Gate Enemies.png",
     opts: {
       games: ["DTL"],
       rel: ["cut"]
