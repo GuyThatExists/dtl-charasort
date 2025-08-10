@@ -1887,5 +1887,133 @@ dataSet[dataSetVersion].characterData = [
       games: ["DTL"],
       rel: ["cut"]
     }
+  },
+  {
+    name: "Farmer Brown's Family",
+    img: "Farmer Brown Family.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Cookie's Assistants",
+    img: "Cookie Assistants.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Tubba and Bubba's Parents",
+    img: "Tubba Family.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Elder Raposa rescued with Zsasha",
+    img: "Zsasha Elder.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Zsasha's Adopted Daughter",
+    img: "Zsasha Daughter.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Cricket's Deputies",
+    img: "Cricket Deputies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "NavyJ's Groupies",
+    img: "NavyJ Groupies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Galileo's Family",
+    img: "Galileo Family.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Crazy Barks' Crew",
+    img: "Crazy Barks Crew.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Bubba's Caretakers",
+    img: "Bubba Caretakers.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Indee's Family",
+    img: "Indee Family.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Pirate Beard's Crew",
+    img: "Pirate Beard Crew.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Rapokids rescued with Mike",
+    img: "Mike Raposa.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Unagi's Assistants",
+    img: "Unagi Assistants.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Dr. Cure's Assistant",
+    img: "Cure Assistant.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Dr. Cure's Husband",
+    img: "Cure Husband.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
   }
 ];
