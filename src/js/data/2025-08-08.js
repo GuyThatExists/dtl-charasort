@@ -2791,5 +2791,13 @@ dataSet[dataSetVersion].characterData = [
       games: ["Wii"],
       rel: ["cut"]
     }
+  },
+  {
+    name: "Hero (Two Realms)",
+    img: "Hero TR.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
   }
 ];
