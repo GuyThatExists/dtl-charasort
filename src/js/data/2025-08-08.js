@@ -1087,5 +1087,805 @@ dataSet[dataSetVersion].characterData = [
       games: ["DTL", "TR"],
       rel: ["story", "minor"]
     }
+  },
+  {
+    name: "Alphonse",
+    img: "Alphonse.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Antionette",
+    img: "Antionette.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Constance",
+    img: "Constance.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Desiree",
+    img: "Desiree.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Ferdinand",
+    img: "Ferdinand.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Florence",
+    img: "Florence.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Francois",
+    img: "Francois.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Gabriel",
+    img: "Gabriel.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Genevieve",
+    img: "Genevieve.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Jacques",
+    img: "Jacques.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Josephine",
+    img: "Josephine.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Leopold",
+    img: "Leopold.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Madeliene",
+    img: "Madeliene.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Maximilien",
+    img: "Maximilien.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Penelope",
+    img: "Penelope.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Robespierre",
+    img: "Robespierre.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Sebastien",
+    img: "Sebastien.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Valentine",
+    img: "Valentine.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Veronique",
+    img: "Veronique.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Yvonne",
+    img: "Yvonne.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Police Officer",
+    img: "Police Officer.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Bernard",
+    img: "Bernard.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Chandice",
+    img: "Chandice.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Cherry",
+    img: "Cherry.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Crazy Diggz",
+    img: "Crazy Diggz.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Ellen",
+    img: "Ellen.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Flint",
+    img: "Flint.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Gertrude",
+    img: "Gertrude.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Levi",
+    img: "Levi.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Melon",
+    img: "Melon.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mick",
+    img: "Mick.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Nanci",
+    img: "Nanci.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Rocko",
+    img: "Rocko.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Russet",
+    img: "Russet.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Spike",
+    img: "Spike.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Sprocket",
+    img: "Sprocket.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Akamu",
+    img: "Akamu.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Iolani",
+    img: "Iolani.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Kaihe",
+    img: "Kaihe.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Kamalah",
+    img: "Kamalah.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Moani",
+    img: "Moani.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Hoaka",
+    img: "Hoaka.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "The Council",
+    img: "The Council.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Council Room Dolls",
+    img: "Council Dolls.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Amy",
+    img: "Amy.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Kyren",
+    img: "Kyren.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Nima",
+    img: "Nima.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Oma",
+    img: "Oma.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Pouches",
+    img: "Pouches.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Baki Thief",
+    img: "Baki Thief.png",
+    opts: {
+      games: ["TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Carrier Robot",
+    img: "Carrier Robot.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Dandyshroom",
+    img: "Dandyshroom.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Kuragekko",
+    img: "Kuragekko.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Shork",
+    img: "Shork.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Stumps",
+    img: "Stumps.png",
+    opts: {
+      games: ["DTL", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Anita",
+    img: "Anita.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Benedict",
+    img: "Benedict.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Billy Yonder",
+    img: "Billy Yonder.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Bo",
+    img: "Bo.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Bobby Tweeth",
+    img: "Bobby Tweeth.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Franco Key",
+    img: "Franco Key.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Frank",
+    img: "Frank.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Gary",
+    img: "Gary.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Helen",
+    img: "Helen.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Jeff",
+    img: "Jeff.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Kate",
+    img: "Kate.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Kone",
+    img: "Kone.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Luke",
+    img: "Luke.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Matt Swipe",
+    img: "Matt Swipe.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mo",
+    img: "Mo.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mr. Bonkles",
+    img: "Mr Bonkles.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mr. Celek",
+    img: "Mr Celek.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mr. Ford",
+    img: "Mr Ford.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mrs. Esow",
+    img: "Mrs Esow.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Ole Man Zachary",
+    img: "Old Man Zachary.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Professor Chuck",
+    img: "Prof Chuck.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Reginald Freeman",
+    img: "Reginald Freeman.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Tiffany",
+    img: "Tiffany.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Willy Martinez",
+    img: "Willy Martinez.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Yeti",
+    img: "Yeti DS.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Snow Hider",
+    img: "Snow Hider.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Walker",
+    img: "Shadow Walker.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Timber Baki",
+    img: "Timber Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Star Baki",
+    img: "Star Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Clockwork Baki",
+    img: "Clockwork Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Dandelion Flyer",
+    img: "Dendelion Flyer.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Flyin' Rabbit",
+    img: "Flyin Rabbit.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Biggs",
+    img: "Biggs.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Crawler",
+    img: "Shadow Crawler.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["boss"]
+    }
+  },
+  {
+    name: "Shadow Grabber",
+    img: "Shadow Grabber.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Sand Baki",
+    img: "Sand Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Aquatic Baki",
+    img: "Aquatic Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Sea Slug",
+    img: "Sea Slug.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Anemone",
+    img: "Anemone.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Anchorpus",
+    img: "Anchorpus.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Fish",
+    img: "Shadow Fish.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Golden Baki",
+    img: "Golden Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Giant Golden Baki",
+    img: "Giant Golden Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Golem",
+    img: "Shadow Golem.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Shadow Cluster",
+    img: "Shadow Cluster.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
   }
 ];
