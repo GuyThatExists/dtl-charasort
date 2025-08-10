@@ -2015,5 +2015,781 @@ dataSet[dataSetVersion].characterData = [
       games: ["DTL"],
       rel: ["minor"]
     }
+  },
+  {
+    name: "Creator",
+    img: "Creator.png",
+    opts: {
+      games: ["DTL", "TNC", "Wii", "TR"],
+      rel: ["story"]
+    }
+  },
+  {
+    name: "Cumulus",
+    img: "Cumulus.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Hermit Crab",
+    img: "Hermit Crab.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Manic Baki",
+    img: "Manic Baki.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Molemite",
+    img: "Molemite.png",
+    opts: {
+      games: ["TNC", "TR"],
+      rel: ["enemy", "minor"]
+    }
+  },
+  {
+    name: "Rocky Baki",
+    img: "Rocky Baki.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Seedlee",
+    img: "Seedlee.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Taz",
+    img: "Taz.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Dodo",
+    img: "Dodo.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Pirates",
+    img: "Baki Pirates.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Sub",
+    img: "Baki Sub.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Ghost Captain",
+    img: "Baki Ghost Captain.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Ghost Swabby",
+    img: "Baki Ghost Swabby.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Pilot Bird",
+    img: "Pilot Bird.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Starfish",
+    img: "Starfish.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Accordion Fish",
+    img: "Accordion Fish.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Tentacle Monster",
+    img: "Tentacle Monster.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Raposa Statue",
+    img: "Raposa Statues.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Sheepdog",
+    img: "Sheepdog.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Jazz Fish",
+    img: "Jazz Fish.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Sea Harp",
+    img: "Sea Harp.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Spike Ball Bubblers",
+    img: "Spike Ball Bubblers.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Anglerfish",
+    img: "Anglerfish.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Burnas",
+    img: "Baki Burnas.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Firefly",
+    img: "Firefly.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki U.F.O.",
+    img: "Baki UFO.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Duck Sentry",
+    img: "Duck Sentry.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Vine Beetle",
+    img: "Vine Beetle.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Lancer",
+    img: "Baki Lancers.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Space Chomper",
+    img: "Space Chomper.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Baki Space Bus",
+    img: "Baki Space Bus.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Sad Storm Cloud",
+    img: "Sad Storm Cloud.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Flea",
+    img: "Flea.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Angry Sun",
+    img: "Angry Sun.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["enemy"]
+    }
+  },
+  {
+    name: "Chris Richards",
+    img: "Chris Richards.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Zachariah",
+    img: "Zachariah.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "ENM7",
+    img: "ENM7.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Teeter",
+    img: "Teeter.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Hoop",
+    img: "Hoop.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Seeker",
+    img: "Seeker.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Leapling",
+    img: "Leapling.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Dodger",
+    img: "Dodger.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Ice Doot",
+    img: "Ice Doot.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Inflatable Hero",
+    img: "Inflatable Hero.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Decoy",
+    img: "Decoy.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Haunt",
+    img: "Haunt.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "SuperRapo",
+    img: "SuperRapo.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "HoverHearth",
+    img: "HoverHearth.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Chimera",
+    img: "Chimera.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Golem",
+    img: "Golem.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Alana",
+    img: "Alana.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Nolan",
+    img: "Nolan.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Two Realms Humans",
+    img: "Cut TR Humans.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Two Realms Raposa",
+    img: "Cut TR Raposa.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Belleview Park Statue Woman",
+    img: "Park Statue Woman.png",
+    opts: {
+      games: ["TR"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Fiora",
+    img: "Fiora.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Lambert",
+    img: "Lambert.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Beta Sock Designs",
+    img: "Socks.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Brown-Furred Lavasteam Raposa",
+    img: "Brown Lavasteam Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Grey-Furred Lavasteam Raposa",
+    img: "Grey Lavasteam Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Shadow Mari",
+    img: "Shadow Mari.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Concept Galactic Jungle Enemies",
+    img: "Concept Galactic Jungle Enemies.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Rocket Vulture",
+    img: "Rocket Vulture.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Dinofrog",
+    img: "Dinofrog.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Concept Wilfre's Wasteland Raposa",
+    img: "Concept Wilfres Wasteland Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Repair Guy",
+    img: "Repair Guy.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Fortune Cookie",
+    img: "Fortune Cookie.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Miah + Kaori",
+    img: "Mari + Kaori.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Miner Raposa",
+    img: "Miner Raposa.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Mike O'Angelo",
+    img: "Mike OAngelo.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Fujikoda",
+    img: "Fujikoda.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Fire Bill",
+    img: "Fire Bill.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "El Chipo",
+    img: "El Chippo.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Orange-Furred / Grey Shadow Wilfre",
+    img: "Orange Wilfre.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cecil",
+    img: "Cecil.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Drakon",
+    img: "Drakon.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Red Dragon",
+    img: "Red Dragon.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "2005 Title Screen Humans",
+    img: "Original Title Screen Humans.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Beta Title Screen Raposa",
+    img: "Original Title Screen Raposa.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Medieval Droogles",
+    img: "Medieval Droogles.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Miltary Droogles",
+    img: "Military Droogles.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Skate Droogles",
+    img: "Skate Droogles.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Ninja Droogles",
+    img: "Ninja Droogles.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Rata, Tat & Tat",
+    img: "Rata Tat TaT.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Blue Droogles",
+    img: "Blue Droogles.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Beta Timber Baki",
+    img: "Beta Timber Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Shadow Enemies",
+    img: "Cut Shadow Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Snow Gate Enemies",
+    img: "Cut Snow Gate Enemeis.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Forest Gate Enemies",
+    img: "Cut Forest Gate Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Beach Gate Enemies",
+    img: "Cut Beach Gate Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut City Gate Enemeis",
+    img: "Cut City Gate Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Meadow Gate Enemies",
+    img: "Meadow Gate Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Miscellaneous Concept Enemies",
+    img: "Misc Concept Enemies.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Pet",
+    img: "Pet.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Beta Crazy Barks Design",
+    img: "Beta Crazy Barks.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Jungle Raposa",
+    img: "Jungle Raposa.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Tree King",
+    img: "Tree King.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
   }
 ];
