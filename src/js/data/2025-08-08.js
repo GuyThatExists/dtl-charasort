@@ -2554,7 +2554,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Miah + Kaori",
-    img: "Mari + Kaori.png",
+    img: "Miah + Kaori.png",
     opts: {
       games: ["DTL"],
       rel: ["fringe"]
