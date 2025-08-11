@@ -2799,5 +2799,413 @@ dataSet[dataSetVersion].characterData = [
       games: ["TR"],
       rel: ["story"]
     }
+  },
+  {
+    name: "Cutscene-Exclusive Watersong Raposa",
+    img: "Cutscene Watersong Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Wilfre's Wasteland Villagers",
+    img: "Wasteland Raposa.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Nude Raposa Sports Spectators",
+    img: "Nude Raposa.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Ancient Baki",
+    img: "Ancient Baki.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Shadow Lair",
+    img: "Shadow Lair.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "The Family that left Jowee's House in the first Drawn to Life Flashback",
+    img: "Family from Jowee House.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Beta Monkey King",
+    img: "Wise Monkey King.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Snow People",
+    img: "Snow People.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Jinxy",
+    img: "Jinxy.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Hans, Doug, Zak, and Mac",
+    img: "Hans Doug Zak Mac.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Shopkeeper",
+    img: "Beta Wii Shopkeeper.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Oneeye",
+    img: "Oneeye.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Jangala Enemies",
+    img: "Cut Jangala Enemies.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Eric Kozlowsky's Unused Enemies",
+    img: "Eric Kozlowsky Enemies.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Shadow City Enemies",
+    img: "Cut Shadow City Enemies.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Icy Wastes Enemies",
+    img: "Cut Icy Wastes Enemies.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Great Sea Enemies",
+    img: "Great Sea Enemies.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Unused Baki Designs",
+    img: "Beta Wii Bakis.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "boss_zed",
+    img: "boss_zed.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Yeti",
+    img: "Yeti Boss.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Squid",
+    img: "Squid.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cut Sentient Vehicles",
+    img: "Cut Sentient Vehicles.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Cutscene Template Figures",
+    img: "Cutscene Template Figures.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Beta Monkey",
+    img: "Beta Monkey.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Beta Title Screen Characters",
+    img: "Beta Wii Title Screen Characters.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut", "fringe"]
+    }
+  },
+  {
+    name: "Wilfre's Raposa/Shadow Hybrid",
+    img: "Hybrid.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Concept Boxart Heroes",
+    img: "Beta Boxart Heroes.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "YoYaYa",
+    img: "YoYaYa.png",
+    opts: {
+      games: ["TR"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mari and Jowee Dolls",
+    img: "Mari and Jowee Dolls.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Mr. and Mrs. Row",
+    img: "Row Parents.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Noncanon Row Family",
+    img: "Row Family NC.png",
+    opts: {
+      games: ["Wii"],
+      rel: ["cut"]
+    }
+  },
+  {
+    name: "Rapoville Lighthouse",
+    img: "Rapoville Lighthouse.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["fringe"]
+    }
+  },
+  {
+    name: "Samuel's Wise Elder",
+    img: "Samuels Wise Elder.png",
+    opts: {
+      games: ["TNC"],
+      rel: ["mentioned"]
+    }
+  },
+  {
+    name: "Brian Firfer",
+    img: "Brian Firfer.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "David J. Franco",
+    img: "David J Franco.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Ian Hall",
+    img: "Ian Hall.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "James Youngman",
+    img: "James Youngman.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Jeff Luke",
+    img: "Jeff Luke.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Joseph Tringali",
+    img: "Joseph Tringali.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Karina Lye See Mun",
+    img: "Karina Lye See Mun.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Paul Robertson",
+    img: "Paul Robertson.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Sherman Chin",
+    img: "Sherman Chin.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Steve Chiavelli",
+    img: "Steve Chiavelli.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Zachary Brown",
+    img: "Zachary Brown.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Brett Caird",
+    img: "Brett Caird.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Chow Chern Fai",
+    img: "Chow Chern Fai.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Chuck Skoda",
+    img: "Chuck Skoda.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Jeremiah Slaczka",
+    img: "Jeremiah Slazcka.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Luke Thompson",
+    img: "Luke Thompson.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "Marius Fahlbusch",
+    img: "Marius Fahlbusch.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
+  },
+  {
+    name: "O'wes Beck",
+    img: "Owes Beck.png",
+    opts: {
+      games: ["DTL"],
+      rel: ["minor"]
+    }
   }
 ];
