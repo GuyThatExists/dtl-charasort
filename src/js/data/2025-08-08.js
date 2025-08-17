@@ -29,6 +29,12 @@ dataSet[dataSetVersion].options = [
       { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false },
       { name: "Cut Characters", tooltip: "Only includes characters that were cut, regardless of intended relevance (e.g. Fortune Cookie, Tree King, Teeter all grouped together).", key: "cut", checked: false }
     ]
+  },
+  {
+    name: "Include Cut Characters",
+    key: "cut",
+    tooltip: "Check this add the many cut characters to the sorter. They will be sorted by the above categories.",
+    checked: false
   }
 ];
 
