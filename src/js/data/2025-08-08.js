@@ -24,7 +24,7 @@ dataSet[dataSetVersion].options = [
       { name: "Minor Characters", tooltip: "Only includes characters that do not have a speaking role, as well as most Generic Raposa Characters. Includes TR Overworld enemies.", key: "minor" },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy", checked: false },
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
-      { name: "Developer Avatars", tooltip: "Includes Dev Grove avatars and Wii Credits Heroes (eventually).", key: "dev" },
+      { name: "Developer Avatars", tooltip: "Includes Dev Grove avatars and Wii Credits Heroes (eventually).", key: "dev", checked: false },
       { name: "Fringe Characters", tooltip: "Only includes characters that are debatably not even characters such as Baki Engineer and Wanted Pirates.", key: "fringe", checked: false },
       { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false },
       { name: "Cut Characters", tooltip: "Only includes characters that were cut, regardless of intended relevance (e.g. Fortune Cookie, Tree King, Teeter all grouped together).", key: "cut", checked: false }
