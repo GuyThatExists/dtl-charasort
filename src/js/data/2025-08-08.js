@@ -1891,7 +1891,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Shadow Cluster.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2299,7 +2300,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Chris Richards.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2307,7 +2309,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Zachariah.png",
     opts: {
       games: ["TR"],
-      rel: ["cut", "fringe"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2315,7 +2318,8 @@ dataSet[dataSetVersion].characterData = [
     img: "ENM7.png",
     opts: {
       games: ["TR"],
-      rel: ["cut", "fringe"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
