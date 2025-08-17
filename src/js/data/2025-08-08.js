@@ -26,8 +26,7 @@ dataSet[dataSetVersion].options = [
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
       { name: "Developer Avatars", tooltip: "Includes Dev Grove avatars and Wii Credits Heroes (eventually).", key: "dev", checked: false },
       { name: "Fringe Characters", tooltip: "Only includes characters that are debatably not even characters such as Baki Engineer and Wanted Pirates.", key: "fringe", checked: false },
-      { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false },
-      { name: "Cut Characters", tooltip: "Only includes characters that were cut, regardless of intended relevance (e.g. Fortune Cookie, Tree King, Teeter all grouped together).", key: "cut", checked: false }
+      { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false }
     ]
   },
   {
