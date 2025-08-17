@@ -30,10 +30,10 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Include Cut Characters",
+    name: "Exclude Cut Characters",
     key: "cut",
-    tooltip: "Check this add the many cut characters to the sorter. They will be sorted by the above categories.",
-    checked: false
+    tooltip: "Uncheck this add the many cut characters to the sorter. They will be sorted by the above categories.",
+    checked: true
   }
 ];
 
@@ -1776,7 +1776,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Dandelion Flyer",
-    img: "Dendelion Flyer.png",
+    img: "Dandelion Flyer.png",
     opts: {
       games: ["DTL"],
       rel: ["enemy"]
@@ -1784,7 +1784,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Flyin' Rabbit",
-    img: "Flyin Rabbit.png",
+    img: "Flying Rabbit.png",
     opts: {
       games: ["DTL"],
       rel: ["enemy"]
@@ -2327,7 +2327,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Teeter.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2335,7 +2336,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Hoop.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2343,7 +2345,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Seeker.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2351,7 +2354,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Leapling.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2359,7 +2363,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Dodger.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2367,7 +2372,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Ice Doot.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2375,7 +2381,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Inflatable Hero.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2383,7 +2390,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Decoy.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2391,7 +2399,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Haunt.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2399,7 +2408,8 @@ dataSet[dataSetVersion].characterData = [
     img: "SuperRapo.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2407,7 +2417,8 @@ dataSet[dataSetVersion].characterData = [
     img: "HoverHearth.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2415,7 +2426,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Chimera.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2423,7 +2435,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Golem.png",
     opts: {
       games: ["TR"],
-      rel: ["cut", "fringe"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2431,7 +2444,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Alana.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2439,7 +2453,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Nolan.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2447,7 +2462,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut TR Humans.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2455,7 +2471,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut TR Raposa.png",
     opts: {
       games: ["TR"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2471,7 +2488,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Fiora.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2479,7 +2497,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Lambert.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2487,7 +2506,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Socks.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2495,7 +2515,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Brown Lavasteam Raposa.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2503,7 +2524,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Grey Lavasteam Raposa.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2511,7 +2533,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Shadow Mari.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2519,7 +2542,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Concept Galactic Jungle Enemies.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2527,7 +2551,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Rocket Vulture.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2535,7 +2560,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Dinofrog.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2543,7 +2569,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Concept Wilfres Wasteland Raposa.png",
     opts: {
       games: ["TNC"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2551,7 +2578,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Repair Guy.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2559,7 +2587,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Fortune Cookie.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2575,7 +2604,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Miner Raposa.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["minor"]
     }
   },
   {
@@ -2583,7 +2612,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Mike OAngelo.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2591,7 +2621,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Fujikoda.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2599,7 +2630,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Fire Bill.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2607,7 +2639,8 @@ dataSet[dataSetVersion].characterData = [
     img: "El Chippo.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut", "fringe"]
+      rel: ["fringe"],
+      cut: true
     }
   },
   {
@@ -2615,7 +2648,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Orange Wilfre.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2623,7 +2657,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cecil.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2631,7 +2666,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Drakon.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2639,7 +2675,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Red Dragon.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2647,7 +2684,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Original Title Screen Humans.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2655,7 +2693,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Original Title Screen Raposa.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2663,7 +2702,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Medieval Droogles.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2671,7 +2711,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Military Droogles.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2679,7 +2720,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Skate Droogles.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2687,7 +2729,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Ninja Droogles.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2695,7 +2738,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Rata Tat TaT.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2703,7 +2747,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Blue Droogles.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2711,7 +2756,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Timber Baki.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2719,7 +2765,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Shadow Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2727,7 +2774,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Snow Gate Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2735,7 +2783,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Forest Gate Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2743,7 +2792,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Beach Gate Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2751,7 +2801,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut City Gate Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2759,7 +2810,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Meadow Gate Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2767,7 +2819,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Misc Concept Enemies.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut", "fringe"]
+      rel: ["enemy", "fringe"],
+      cut: true
     }
   },
   {
@@ -2775,7 +2828,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Pet.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2783,7 +2837,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Crazy Barks.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2791,7 +2846,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Jungle Raposa.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2799,7 +2855,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Tree King.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2863,7 +2920,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Wise Monkey King.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -2871,7 +2929,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Snow People.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2879,7 +2938,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Jinxy.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut", "fringe"]
+      rel: ["fringe"],
+      cut: true
     }
   },
   {
@@ -2887,7 +2947,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Hans Doug Zak Mac.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2895,7 +2956,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Wii Shopkeeper.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2903,7 +2965,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Oneeye.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2911,7 +2974,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Jangala Enemies.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2919,7 +2983,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Eric Kozlowsky Enemies.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2927,7 +2992,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Shadow City Enemies.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2935,7 +3001,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Icy Wastes Enemies.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2943,7 +3010,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Great Sea Enemies.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2951,7 +3019,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Wii Bakis.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -2959,7 +3028,8 @@ dataSet[dataSetVersion].characterData = [
     img: "boss_zed.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut", "fringe"]
+      rel: ["boss", "fringe"],
+      cut: true
     }
   },
   {
@@ -2967,7 +3037,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Yeti Boss.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2975,7 +3046,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Squid.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["boss"],
+      cut: true
     }
   },
   {
@@ -2983,7 +3055,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cut Sentient Vehicles.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
@@ -2991,7 +3064,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Cutscene Template Figures.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut", "fringe"]
+      rel: ["fringe"],
+      cut: true
     }
   },
   {
@@ -2999,7 +3073,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Monkey.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["enemy"],
+      cut: true
     }
   },
   {
@@ -3007,7 +3082,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Wii Title Screen Characters.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut", "fringe"]
+      rel: ["fringe"],
+      cut: true
     }
   },
   {
@@ -3015,7 +3091,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Hybrid.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -3023,7 +3100,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Beta Boxart Heroes.png",
     opts: {
       games: ["DTL"],
-      rel: ["cut"]
+      rel: ["story"],
+      cut: true
     }
   },
   {
@@ -3051,11 +3129,11 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
-    name: "Noncanon Row Family",
+    name: "Non-Canon Row Family",
     img: "Row Family NC.png",
     opts: {
       games: ["Wii"],
-      rel: ["cut"]
+      rel: ["minor"]
     }
   },
   {
