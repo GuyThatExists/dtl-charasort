@@ -2533,7 +2533,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Shadow Mari.png",
     opts: {
       games: ["TNC"],
-      rel: ["story"],
+      rel: ["fringe"],
       cut: true
     }
   },
