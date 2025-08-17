@@ -22,10 +22,11 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "Story Characters", tooltip: "Only includes characters that have a speaking role in the main plot of a game. Includes Aldark and Wilfre.", key: "story" },
       { name: "Minor Characters", tooltip: "Only includes characters that do not have a speaking role, as well as most Generic Raposa Characters. Includes TR Overworld enemies.", key: "minor" },
-      { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy", checked: false },
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
+      { name: "Developer Avatars", tooltip: "Includes Dev Grove avatars and Wii Credits Heroes (eventually).", key: "dev" },
       { name: "Fringe Characters", tooltip: "Only includes characters that are debatably not even characters such as Baki Engineer and Wanted Pirates.", key: "fringe", checked: false },
+      { name: "Mentioned Characters", tooltip: "Only includes characters (of any species) that are only named and never seen.", key: "mentioned", checked: false },
       { name: "Cut Characters", tooltip: "Only includes characters that were cut, regardless of intended relevance (e.g. Fortune Cookie, Tree King, Teeter all grouped together).", key: "cut", checked: false }
     ]
   }
@@ -3069,7 +3070,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Brian Firfer.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3077,7 +3078,7 @@ dataSet[dataSetVersion].characterData = [
     img: "David J Franco.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3085,7 +3086,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Ian Hall.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3093,7 +3094,7 @@ dataSet[dataSetVersion].characterData = [
     img: "James Youngman.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3101,7 +3102,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Jeff Luke.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3109,7 +3110,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Joseph Tringali.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3117,7 +3118,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Karina Lye See Mun.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3125,7 +3126,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Paul Robertson.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3133,7 +3134,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Sherman Chin.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3141,7 +3142,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Steve Chiavelli.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3149,7 +3150,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Zachary Brown.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3157,7 +3158,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Brett Caird.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3165,7 +3166,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Chow Chern Fai.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3173,7 +3174,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Chuck Skoda.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3181,7 +3182,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Jeremiah Slazcka.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3189,7 +3190,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Luke Thompson.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3197,7 +3198,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Marius Fahlbusch.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   },
   {
@@ -3205,7 +3206,7 @@ dataSet[dataSetVersion].characterData = [
     img: "Owes Beck.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["dev"]
     }
   }
 ];
