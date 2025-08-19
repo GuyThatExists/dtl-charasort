@@ -24,7 +24,10 @@ dataSet[dataSetVersion].options = [
       { name: "Minor Characters", tooltip: "Only includes characters that do not have a speaking role, as well as most Generic Raposa Characters. Includes TR Overworld enemies.", key: "minor" },
       { name: "Enemy", tooltip: "Only includes enemies from each game. Excludes all Shadows from Two Realms.", key: "enemy", checked: false, sub:
         [
-          { name: "Snow Gate", tooltip: "Only includes enemies that appear in the Snow Gate levels.", key: "snow" }
+          { name: "Snow Gate", tooltip: "Only includes enemies that appear in the Snow Gate levels.", key: "snow" },
+          { name: "Forest Gate", tooltip: "Only includes enemies that appear in the Forest Gate levels.", key: "forest" },
+          { name: "Beach Gate", tooltip: "Only includes enemies that appear in the Beach Gate levels.", key: "beach" },
+          { name: "City Gate", tooltip: "Only includes enemies that appear in the City Gate levels.", key: "city" }
         ]
       },
       { name: "Bosses", tooltip: "Only includes bosses. Includes all Shadows from Two Realms.", key: "boss" },
