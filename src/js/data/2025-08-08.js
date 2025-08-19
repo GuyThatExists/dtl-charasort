@@ -2604,7 +2604,8 @@ dataSet[dataSetVersion].characterData = [
     img: "Miner Raposa.png",
     opts: {
       games: ["DTL"],
-      rel: ["minor"]
+      rel: ["minor"],
+      cut: true
     }
   },
   {
